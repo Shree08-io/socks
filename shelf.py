@@ -1,4 +1,4 @@
-'''Finding each shelf in cupboard has different colors of socks pairs
+'''
        BY:Shreyansh Chougule
 
 
